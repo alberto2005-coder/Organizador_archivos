@@ -59,8 +59,8 @@ python main.py
 ------------------------------------------------------------------------
 
 ## 📸 Capturas
+<img width="992" height="549" alt="image" src="https://github.com/user-attachments/assets/8c735398-2f0a-498e-acbc-9e73f690e810" />
 
-*(Agrega aquí imágenes de la interfaz si quieres)*
 
 ------------------------------------------------------------------------
 
