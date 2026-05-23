@@ -38,7 +38,7 @@ imágenes, documentos, audios, videos, etc.
 ### 1. Clonar repositorio
 
 ``` bash
-git clone https://github.com/tuusuario/organizador-archivos.git
+git clone https://github.com/alberto2005-coder/organizador-archivos.git
 cd organizador-archivos
 ```
 
